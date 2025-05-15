@@ -10,7 +10,7 @@ const aniversariantesData = [
     { nome: 'THIAGO MARQUES MENESES', aniversario: '05 de Fevereiro', email: 'thiago.meneses@mpgo.mp.br', cargo: 'ASSESSOR ADMINISTRATIVO' },
     { nome: 'Dr. Marcelo André de Azevedo', aniversario: '08 de Janeiro', email: 'marcelo.azevedo@mpgo.mp.br', cargo: 'Subprocuradoria-Geral de Justiça para Assuntos de Planejamento, Estratégia e Inovação' },
     { nome: 'Dr. Rafael Correa Costa', aniversario: '01 de Dezembro', email: 'rafael.correa@mpgo.mp.br', cargo: 'Promotor de Justiça e Assessor Jurídico-Administrativo da PGJ' },
-    { nome: 'Dra. Liana', aniversario: '24 de Fevereiro', email: 'liana.tormin@mpgo.mp.br', cargo: 'Promotora de Justiça e Assessora Jurídica-Administrativa da PGJ' }
+    { nome: 'Dra. Liana Antunes Vieira Tormin', aniversario: '24 de Fevereiro', email: 'liana.tormin@mpgo.mp.br', cargo: 'Promotora de Justiça e Assessora Jurídica-Administrativa da PGJ' }
 ];
 
 // Array para armazenar os dados processados e ordenados
