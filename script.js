@@ -1,16 +1,16 @@
 // Dados originais dos aniversariantes
 const aniversariantesData = [
-    { nome: 'ANDRé PEREIRA TELES', aniversario: '23 de Junho', email: 'andre.teles@mpgo.mp.br', cargo: 'ASSESSOR ADMINISTRATIVO' },
-    { nome: 'CLEUTON CORREA DE SOUZA FILHO', aniversario: '12 de Julho', email: 'cleuton.correa@mpgo.mp.br', cargo: 'ASSISTENTE DA PROCURADORIA-GERAL DE JUSTIÇA' },
-    { nome: 'GUSTAVO OSORIO RIZZI LIPPI', aniversario: '18 de Fevereiro', email: 'gustavo.lippi@mpgo.mp.br', cargo: 'ASSESSOR JURIDICO' },
-    { nome: 'JOSé SOARES COSTA FILHO', aniversario: '09 de Julho', email: 'jose.soares@mpgo.mp.br', cargo: 'AUXILIAR MOTORISTA / MOTORISTA DA ADMINISTRAÇÃO SUPERIOR' },
-    { nome: 'JULIANA AMORIM PINTO', aniversario: '20 de Abril', email: 'juliana.pinto@mpgo.mp.br', cargo: 'ASSESSOR JURIDICO' },
-    { nome: 'LAILA SABRINA FERREIRA BORBA', aniversario: '22 de Agosto', email: 'laila.borba@mpgo.mp.br', cargo: 'ASSESSOR JURIDICO' },
-    { nome: 'LORRAYNE CHRISTYNE DOS SANTOS CRUZ', aniversario: '06 de fevereiro', email: 'lorrayne.cruz@mpgo.mp.br', cargo: 'ANALISTA EM INFORMÁTICA / ASSESSOR DA PROCURADORIA-GERAL DE JUSTIÇA' },
-    { nome: 'THIAGO MARQUES MENESES', aniversario: '05 de Fevereiro', email: 'thiago.meneses@mpgo.mp.br', cargo: 'ASSESSOR ADMINISTRATIVO' },
-    { nome: 'Dr. Marcelo André de Azevedo', aniversario: '08 de Janeiro', email: 'marcelo.azevedo@mpgo.mp.br', cargo: 'Subprocuradoria-Geral de Justiça para Assuntos de Planejamento, Estratégia e Inovação' },
-    { nome: 'Dr. Rafael Correa Costa', aniversario: '01 de Dezembro', email: 'rafael.correa@mpgo.mp.br', cargo: 'Promotor de Justiça e Assessor Jurídico-Administrativo da PGJ' },
-    { nome: 'Dra. Liana Antunes Vieira Tormin', aniversario: '24 de Fevereiro', email: 'liana.tormin@mpgo.mp.br', cargo: 'Promotora de Justiça e Assessora Jurídica-Administrativa da PGJ' }
+    { nome: 'ANDRé PEREIRA TELES', aniversario: '23 de Junho', cargo: 'ASSESSOR ADMINISTRATIVO' },
+    { nome: 'CLEUTON CORREA DE SOUZA FILHO', aniversario: '12 de Julho', cargo: 'ASSISTENTE DA PROCURADORIA-GERAL DE JUSTIÇA' },
+    { nome: 'GUSTAVO OSORIO RIZZI LIPPI', aniversario: '18 de Fevereiro', cargo: 'ASSESSOR JURIDICO' },
+    { nome: 'JOSé SOARES COSTA FILHO', aniversario: '09 de Julho', cargo: 'AUXILIAR MOTORISTA / MOTORISTA DA ADMINISTRAÇÃO SUPERIOR' },
+    { nome: 'JULIANA AMORIM PINTO', aniversario: '20 de Abril', cargo: 'ASSESSOR JURIDICO' },
+    { nome: 'LAILA SABRINA FERREIRA BORBA', aniversario: '22 de Agosto', cargo: 'ASSESSOR JURIDICO' },
+    { nome: 'LORRAYNE CHRISTYNE DOS SANTOS CRUZ', aniversario: '06 de fevereiro', cargo: 'ANALISTA EM INFORMÁTICA / ASSESSOR DA PROCURADORIA-GERAL DE JUSTIÇA' },
+    { nome: 'THIAGO MARQUES MENESES', aniversario: '05 de Fevereiro', cargo: 'ASSESSOR ADMINISTRATIVO' },
+    { nome: 'Dr. Marcelo André de Azevedo', aniversario: '08 de Janeiro', cargo: 'Subprocuradoria-Geral de Justiça para Assuntos de Planejamento, Estratégia e Inovação' },
+    { nome: 'Dr. Rafael Correa Costa', aniversario: '01 de Dezembro', cargo: 'Promotor de Justiça e Assessor Jurídico-Administrativo da PGJ' },
+    { nome: 'Dra. Liana Antunes Vieira Tormin', aniversario: '24 de Fevereiro', cargo: 'Promotora de Justiça e Assessora Jurídica-Administrativa da PGJ' }
 ];
 
 // Array para armazenar os dados processados e ordenados
