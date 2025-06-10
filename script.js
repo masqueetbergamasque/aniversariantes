@@ -1,16 +1,17 @@
 // Dados originais dos aniversariantes
 const aniversariantesData = [
-    { nome: 'ANDRé PEREIRA TELES', aniversario: '23 de Junho', cargo: 'ASSESSOR ADMINISTRATIVO' },
-    { nome: 'CLEUTON CORREA DE SOUZA FILHO', aniversario: '12 de Julho', cargo: 'ASSISTENTE DA PROCURADORIA-GERAL DE JUSTIÇA' },
-    { nome: 'GUSTAVO OSORIO RIZZI LIPPI', aniversario: '18 de Fevereiro', cargo: 'ASSESSOR JURIDICO' },
-    { nome: 'JOSé SOARES COSTA FILHO', aniversario: '09 de Julho', cargo: 'AUXILIAR MOTORISTA / MOTORISTA DA ADMINISTRAÇÃO SUPERIOR' },
-    { nome: 'JULIANA AMORIM PINTO', aniversario: '20 de Abril', cargo: 'ASSESSOR JURIDICO' },
-    { nome: 'LAILA SABRINA FERREIRA BORBA', aniversario: '22 de Agosto', cargo: 'ASSESSOR JURIDICO' },
+    { nome: 'ANDRé PEREIRA TELES', aniversario: '23 de junho', cargo: 'ASSESSOR ADMINISTRATIVO' },
+    { nome: 'CLEUTON CORREA DE SOUZA FILHO', aniversario: '12 de julho', cargo: 'ASSISTENTE DA PROCURADORIA-GERAL DE JUSTIÇA' },
+    { nome: 'Helena Rocha Fernandes', aniversario: '19 de dezembro', cargo: 'ASSISTENTE DA PROCURADORIA-GERAL DE JUSTIÇA' },   
+    { nome: 'GUSTAVO OSORIO RIZZI LIPPI', aniversario: '18 de fevereiro', cargo: 'ASSESSOR JURIDICO' },
+    { nome: 'JOSé SOARES COSTA FILHO', aniversario: '09 de julho', cargo: 'AUXILIAR MOTORISTA / MOTORISTA DA ADMINISTRAÇÃO SUPERIOR' },
+    { nome: 'JULIANA AMORIM PINTO', aniversario: '20 de abril', cargo: 'ASSESSOR JURIDICO' },
+    { nome: 'LAILA SABRINA FERREIRA BORBA', aniversario: '22 de agosto', cargo: 'ASSESSOR JURIDICO' },
     { nome: 'LORRAYNE CHRISTYNE DOS SANTOS CRUZ', aniversario: '06 de fevereiro', cargo: 'ANALISTA EM INFORMÁTICA / ASSESSOR DA PROCURADORIA-GERAL DE JUSTIÇA' },
-    { nome: 'THIAGO MARQUES MENESES', aniversario: '05 de Fevereiro', cargo: 'ASSESSOR ADMINISTRATIVO' },
-    { nome: 'Dr. Marcelo André de Azevedo', aniversario: '08 de Janeiro', cargo: 'Subprocuradoria-Geral de Justiça para Assuntos de Planejamento, Estratégia e Inovação' },
-    { nome: 'Dr. Rafael Correa Costa', aniversario: '01 de Dezembro', cargo: 'Promotor de Justiça e Assessor Jurídico-Administrativo da PGJ' },
-    { nome: 'Dra. Liana Antunes Vieira Tormin', aniversario: '24 de Fevereiro', cargo: 'Promotora de Justiça e Assessora Jurídica-Administrativa da PGJ' }
+    { nome: 'THIAGO MARQUES MENESES', aniversario: '05 de fevereiro', cargo: 'ASSESSOR ADMINISTRATIVO' },
+    { nome: 'Dr. Marcelo André de Azevedo', aniversario: '08 de janeiro', cargo: 'Subprocuradoria-Geral de Justiça para Assuntos de Planejamento, Estratégia e Inovação' },
+    { nome: 'Dr. Rafael Correa Costa', aniversario: '01 de dezembro', cargo: 'Promotor de Justiça e Assessor Jurídico-Administrativo da PGJ' },
+    { nome: 'Dra. Liana Antunes Vieira Tormin', aniversario: '24 de fevereiro', cargo: 'Promotora de Justiça e Assessora Jurídica-Administrativa da PGJ' }
 ];
 
 // Array para armazenar os dados processados e ordenados
